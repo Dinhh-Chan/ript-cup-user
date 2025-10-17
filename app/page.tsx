@@ -130,7 +130,7 @@ export default function HomePage() {
               </div>
             </div>
             <div className="relative h-[500px] rounded-lg overflow-hidden scale-in hover:scale-105 transition-smooth-slow">
-              <Image src="/football-team-celebration.jpg" alt="Football team" fill className="object-cover" />
+              <Image src="/Screenshot 2025-10-04 190833.png" alt="Football team" fill className="object-cover" />
             </div>
           </div>
         </div>
